@@ -4,3 +4,4 @@ kitti_yolo_dataset/
 __pycache__/
 *.out
 *.err
+training/label_2/

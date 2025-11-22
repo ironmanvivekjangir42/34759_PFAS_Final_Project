@@ -1,0 +1,6 @@
+data_object_image_2/
+34759_final_project_rect/
+kitti_yolo_dataset/
+__pycache__/
+*.out
+*.err

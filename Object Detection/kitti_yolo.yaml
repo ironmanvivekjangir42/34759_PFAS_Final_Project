@@ -1,0 +1,12 @@
+
+# kitti_yolo.yaml
+path: /zhome/63/6/222806/Perception_Final_project/Object Detection/kitti_yolo_dataset
+train: images/train
+val: images/val   # Updated to point to validation data
+test: images/test # Updated to point to testing data
+
+# Number of classes
+nc: 3
+
+# Class names
+names: ['Car', 'Pedestrian', 'Cyclist']
